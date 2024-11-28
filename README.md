@@ -19,3 +19,7 @@ Send a BPM like `{"BPM":75}` in the body of this post request.
 Your terminal will start performing the work.
 
 Then hit the same terminal from a browser and you will an added block. Voila!
+
+Output:
+
+![Screenshot from 2024-11-28 17-37-58](https://github.com/user-attachments/assets/44fc6e79-e90a-4226-b2d7-a8f12956479a)
